@@ -1,0 +1,13 @@
+.header{
+    background: linear-gradient(to bottom, #30821E, green) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    color: #fff;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif ;
+    letter-spacing: 1px;
+    position: sticky;
+    top: 0;
+}

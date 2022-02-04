@@ -1,0 +1,74 @@
+.product{
+    padding: "10px";
+    background: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    width: 30%;
+    
+}
+.product img {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.actions{
+    display: flex;
+    align-items: center;
+}
+.product h6{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.product .price{
+    font-size: 20px;
+    color: green;
+}
+.product .actions{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+.amount{
+    margin: 10px;
+}
+.actions button{
+    height: 40px;
+    border-radius: 5px;
+    padding: 0 15px;
+    flex: 1;
+}
+
+.buy-btn{
+    background: green;
+    font-size: 18px;
+    font-weight: 500;
+}
+.buy-btn:hover{
+    color: #fff;
+    cursor: pointer;
+}
+.sell-btn{
+    background: grey;
+    font-size: 18px;
+    font-weight: 500;
+    
+}
+.actions .amount{
+    border: 1px solid rgb(226, 220, 220);
+    text-align: center;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #555;
+}
+.actions button[disabled]{
+    opacity: 0.3;
+    cursor: not-allowed;
+}

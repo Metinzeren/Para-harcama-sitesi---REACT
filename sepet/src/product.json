@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title": "Sakız",
+        "price": 0.5,
+        "image": "https://productimages.hepsiburada.net/s/22/375/9952480460850.jpg"
+        
+    },
+    {
+        "id":2,
+        "title": "Araba",
+        "price": 10000,
+        "image":"https://cdn-nq.toyzzshop.com/product/600x600/719a0_Maxx_Wheels_Isikli_Spor_Araba_12_cm..jpg"
+    },
+    {
+        "id":3,
+        "title": "Bilgisayar",
+        "price": 1000,
+        "image": "https://productimages.hepsiburada.net/s/53/375/11124859764786.jpg"
+    },
+    {
+        "id":4,
+        "title": "Çam ağacı",
+        "price": 50,
+        "image":"https://media.istockphoto.com/vectors/christmas-tree-ornament-vector-id1057494470"
+    }
+]
